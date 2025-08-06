@@ -1,0 +1,4 @@
+2023-10-01 12:15:00 - INFO - Application stopped
+2023-10-01 12:10:00 - ERROR - An error occurred
+2023-10-01 12:05:00 - INFO - User logged in
+2023-10-01 12:00:00 - INFO - Application started
