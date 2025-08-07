@@ -1,7 +1,7 @@
 # controller/math_controller.py
 
 from fastapi import APIRouter, HTTPException
-from database.db_operations import RequestDAO
+from database.db_logging import RequestDAO
 from service import math_functions as math_service
 from model.request_models import ResultResponse, PowRequest, FibRequest, FactRequest
 
